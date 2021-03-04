@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Form</title>
+</head>
+<body>
+
+
+
+
+	<h1>Registration File Handling</h1>
+
+
+
+	
+
+	<form action="PhpCode.php" method="POST">
+
+		<fieldset>
+		<legend>Basic Information</legend>
+
+		
+		<label for="fname">First Name:</label>
+		<input type="text" name="fname" id="fname" required>
+		<br>
+
+
+		<label for="lname">Last Name:</label>
+		<input type="text" name="lname" id="lname" required>
+		<br>
+
+
+		
+		<label>Gender</label>
+		<input type="radio" name="gender" id="male" value="male" required>
+		<label for="male">Male</label>
+		<input type="radio" name="gender" id="female" value="female" required>
+		<label for="female">Female</label>
+
+		<br>
+
+		<label for="emailId">Email:</label>
+        <input type="email" id="emailId" name="Email" required>
+        <br>
+
+
+		
+
+
+	    </fieldset>
+
+	    <fieldset>
+
+		<legend>User Account Information</legend>
+
+		<label for="userNameId">UserName or UserId:</label>
+		<input type="text" name="userNameId" id="userNameId" required>
+		<br>
+
+		<label for="password">Password:</label>
+		<input type="password" name="password" id="password" required>
+		<br>
+
+		
+
+		<label for="Recoveryemail"> Recovery Email Address:</label>
+        <input type="email" id="Remail" name="Remail" required>
+        <br>
+
+
+       
+    </fieldset>	
+
+		<input type="submit" value="Register">
+			
+	</form>
+
+
+	
+</body>
+</html>
+
+
+

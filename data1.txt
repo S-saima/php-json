@@ -1,0 +1,3 @@
+{"fname":"Sabrina Nasrin","lname":"Saima","gender":"female","Email":"saima1@gmail.com","userNameId":"s.sai","password":"12","Remail":"sabrina@gmail.com"}
+{"fname":"Sabrina Nasrin","lname":"Saima","gender":"female","Email":"saima@gmail.com","userNameId":"s.saima","password":"120","Remail":"sabrina@gmail.com"}
+{"fname":"Sabrina Nasrin","lname":"akhi","gender":"female","Email":"saima@gmail.com","userNameId":"s.asha","password":"120","Remail":"sabrina@gmail.com"}
